@@ -1,0 +1,25 @@
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #0ddf92; /* Green */
+    margin: 8px 0;
+    font-family: cursive; 
+
+}
+    .input-items{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        font-family: cursive; 
+
+    }
+    .items {
+        display: flex;
+        margin:0;
+        padding:0;
+        height: 100%;
+        width: 100%;
+        justify-content: space-between; 
+
+    }

@@ -1,0 +1,27 @@
+.input-box{
+    display: flex;
+    margin:0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between; 
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D; /* Green */
+    margin: 8px 0;
+    font-family: cursive; 
+
+}
+    input[type=text] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        font-family: cursive; 
+        border: 2px solid #04AA6D; /* Green */
+
+
+      }

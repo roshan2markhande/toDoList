@@ -1,0 +1,22 @@
+.App {
+    margin: auto;
+    width: 45%;
+    height: 100%;
+    border: 3px solid #04AA6D;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    align-items: center;
+justify-items: center;
+}
+.header {
+  height: 5%;
+  font-family: cursive; 
+  align-items: center;
+  justify-items: center;
+
+ }
+ .h1 {
+  align-items: center;
+}
+ 
